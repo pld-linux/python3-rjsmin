@@ -51,9 +51,7 @@ produces the same results as the original jsmin.c.
 %package apidocs
 Summary:	Javascript Minifier - docs
 Group:		Documentation
-%if "%{_rpmversion}" >= "5"
 BuildArch:	noarch
-%endif
 
 %description apidocs
 Docs for rJSmin
