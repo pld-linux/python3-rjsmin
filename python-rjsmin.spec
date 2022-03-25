@@ -10,7 +10,7 @@
 Summary:	rJSmin is a JavaScript minifier written in Python
 Name:		python-%{pypi_name}
 Version:	1.0.12
-Release:	6
+Release:	7
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/r/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
