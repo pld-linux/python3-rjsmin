@@ -4,11 +4,9 @@
 %bcond_without	python2 # CPython 2.x module
 %bcond_without	python3 # CPython 3.x module
 
-%define 	module		rjsmin
-%define 	egg_name	rjsmin
-%define		pypi_name	rjsmin
+%define		module		rjsmin
 Summary:	rJSmin is a JavaScript minifier written in Python
-Name:		python-%{pypi_name}
+Name:		python3-%{pypi_name}
 Version:	1.0.12
 Release:	11
 License:	Apache v2.0
